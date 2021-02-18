@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 627fa5d15723a744cb143c8e3ffa93cd, type: 3}
+  m_Name: Events
+  m_EditorClassIdentifier: 
+  list:
+  - eventMsg: 'Messenger: "My lord, %name% from %place% demands %item%!" Will you
+      send?'
+    A_suspisionProgress: 7
+    A_killingProgress: 3
+    D_suspisionProgress: 1
+    D_killingProgress: 4
+    significancy: 0
+  - eventMsg: You are at %place%. In front of you stands %name% and sees you holding
+      %item%. Do you want to silence him?
+    A_suspisionProgress: 6
+    A_killingProgress: 3
+    D_suspisionProgress: -12
+    D_killingProgress: 3
+    significancy: 0
+  - eventMsg: You pondered and visited %place% by mistake. You saw there %name% wheedling
+      with one of the royal family. Will you tell the king?
+    A_suspisionProgress: -8
+    A_killingProgress: 2
+    D_suspisionProgress: -6
+    D_killingProgress: -3
+    significancy: 0
+  - eventMsg: 'Knight: "Sir, we''ve heard that a group of %name% is preparing to attack
+      %place% again to obtain %item%. Should we increase the number of guards?"Knight:
+      "Sir, we''ve heard that a group of %name% is preparing to attack %place% again
+      to obtain %item%. Should we increase the number of guards?"'
+    A_suspisionProgress: -2
+    A_killingProgress: -4
+    D_suspisionProgress: -12
+    D_killingProgress: -5
+    significancy: 0
+  - eventMsg: You were strolling by the streets when suddenly a dirty %name% runs
+      into you from a side alley and stains your %item%. Are you furious?
+    A_suspisionProgress: 4
+    A_killingProgress: -1
+    D_suspisionProgress: 0
+    D_killingProgress: -2
+    significancy: 0
+  - eventMsg: You came across %name% on a stroll, being very obtrusive and disturbing
+      citizens. Will you arrest the person?
+    A_suspisionProgress: -2
+    A_killingProgress: -1
+    D_suspisionProgress: -6
+    D_killingProgress: -12
+    significancy: 0
+  - eventMsg: The king is leaving for a week to a neighbour city and %place% will
+      be much emptier than usual. Will you go to reconaissance?
+    A_suspisionProgress: 2
+    A_killingProgress: 6
+    D_suspisionProgress: 0
+    D_killingProgress: 0
+    significancy: 0
+  - eventMsg: You decided to take a longer way home. In one of back alleys you came
+      across a group of %name%. They're demanding your %item%. You can see someone
+      from afar. Will you give the item?
+    A_suspisionProgress: 10
+    A_killingProgress: -1
+    D_suspisionProgress: -2
+    D_killingProgress: 0
+    significancy: 0
+  - eventMsg: Your aquitance, %name%, invited you to %place%. You will be away from
+      court for a few days. Will you go?
+    A_suspisionProgress: 10
+    A_killingProgress: 12
+    D_suspisionProgress: 0
+    D_killingProgress: 0
+    significancy: 0
+  - eventMsg: When at %place% you overheard that %name% plans to kill the king. Will
+      you notify the ruler?
+    A_suspisionProgress: -4
+    A_killingProgress: -2
+    D_suspisionProgress: -6
+    D_killingProgress: -8
+    significancy: 0
+  - eventMsg: 'Squire: "My lord! Our spies found out that the group of %name% we were
+      going to face tomorrow is much bigger. Moreover, they have %item%! We should
+      rise another platoon or two!" Will you do it?'
+    A_suspisionProgress: -2
+    A_killingProgress: -1
+    D_suspisionProgress: -6
+    D_killingProgress: -8
+    significancy: 0
+  - eventMsg: You were visited by %name%, who asks for audience with the king. He
+      want's to get more %item% for %place%. Will you allow it?
+    A_suspisionProgress: 0
+    A_killingProgress: 2
+    D_suspisionProgress: -2
+    D_killingProgress: 0
+    significancy: 0
+  - eventMsg: You found %item%. You might get into trouble if you take it. Will you?
+    A_suspisionProgress: 5
+    A_killingProgress: 8
+    D_suspisionProgress: 0
+    D_killingProgress: 0
+    significancy: 0
+  - eventMsg: 'Messenger: "Gracious lord! Neighbouring country''s %name% made demands!
+      We would send them all of our %item% supplies or we will be attacked!." Will
+      you pass the information to the king?'
+    A_suspisionProgress: -4
+    A_killingProgress: -2
+    D_suspisionProgress: -8
+    D_killingProgress: -4
+    significancy: 0
+  - eventMsg: A troubling noise wakes you up. Apparently, someone tried to get to
+      your chambers by the window, but stumbled on %item% on the balcony. Will you
+      call the guards?
+    A_suspisionProgress: 0
+    A_killingProgress: -1
+    D_suspisionProgress: -4
+    D_killingProgress: 0
+    significancy: 0
+  - eventMsg: You bought %item% in a dark alley near %place%. Unfortunately, %name%
+      saw you. Will you bribe the person?
+    A_suspisionProgress: 2
+    A_killingProgress: 4
+    D_suspisionProgress: -8
+    D_killingProgress: -4
+    significancy: 0
+  - eventMsg: Strolling by the city you came across a warehouse ablaze. You are the
+      only one here. When you stare at the flames, %name% suddenly comes around a
+      corner. Will you run away?
+    A_suspisionProgress: 20
+    A_killingProgress: -1
+    D_suspisionProgress: -5
+    D_killingProgress: 0
+    significancy: 0
+  - eventMsg: The king ordered you disposal of the %name% group at %place%. They,
+      instead, offer you joining your plot. Will you execute the order?
+    A_suspisionProgress: -2
+    A_killingProgress: -2
+    D_suspisionProgress: -4
+    D_killingProgress: -10
+    significancy: 0
+  - eventMsg: During a dinner with the mighty at %place%, %name% talked to you. He
+      asks for %item%. Will you sell it?
+    A_suspisionProgress: 0
+    A_killingProgress: 1
+    D_suspisionProgress: 0
+    D_killingProgress: 0
+    significancy: 0
+  - eventMsg: You see as %name% runs from a nearby %place%. Three guards seize after
+      %name%. Will you stop the runaway?
+    A_suspisionProgress: -4
+    A_killingProgress: -2
+    D_suspisionProgress: -12
+    D_killingProgress: -8
+    significancy: 0
+  - eventMsg: Hooded %name% invites you to a dark alley. He invites you to a sect
+      meeting tonight at %place%, but you have to bring your own %item%. Will you
+      go?
+    A_suspisionProgress: 3
+    A_killingProgress: 10
+    D_suspisionProgress: -15
+    D_killingProgress: 2
+    significancy: 0
+  - eventMsg: You see a crowd from your chambers window. Apparently, someone is going
+      to jump from the window above you. Will you go to discourage him?
+    A_suspisionProgress: 0
+    A_killingProgress: -1
+    D_suspisionProgress: 0
+    D_killingProgress: 0
+    significancy: 0
+  - eventMsg: You got a suspicious chest from %name%. You suppose there is %item%
+      inside. Will you gift it to the king?
+    A_suspisionProgress: 3
+    A_killingProgress: 1
+    D_suspisionProgress: -4
+    D_killingProgress: 0
+    significancy: 0
+  - eventMsg: The king has contracted to a serious illness and needs to be transported
+      to %place. There is an attack by %name% expected. Will you join the caravan?
+    A_suspisionProgress: -4
+    A_killingProgress: -1
+    D_suspisionProgress: -20
+    D_killingProgress: -15
+    significancy: 0
+  - eventMsg: You are at a dinner with the king. The food tastes suspiciously. Will
+      you continue eating?
+    A_suspisionProgress: 0
+    A_killingProgress: -1
+    D_suspisionProgress: -12
+    D_killingProgress: 2
+    significancy: 0

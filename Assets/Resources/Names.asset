@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 262f30f74f4f7164e9aade820721d6b6, type: 3}
+  m_Name: Names
+  m_EditorClassIdentifier: 
+  nounList:
+  - '''Da'' bandits'
+  - daughter
+  - panda rebelliants
+  - Panda Jumper
+  - Don Bamboot
+  - Polipand
+  - stranger
+  - albino
+  - student
+  - knight
+  - right knight
+  - left knight
+  - Pandyusha
+  - Copando
+  - Pandisan
+  - Victor
+  - suspicious guy
+  - Team R
+  - Great Lechita

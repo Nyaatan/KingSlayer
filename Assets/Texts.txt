@@ -1,0 +1,32 @@
+Goniec: "Mój Panie! %name% z %place% ¿¹da %item%." Wysy³asz?
+Jesteœ w %place%. Stoi przed tob¹ %name% i widzi, ¿e trzymasz %item%. Czy chcesz uciszyæ œwiadka?
+Zamyœli³eœ siê i wszed³eœ do %place%. Tam natomiast widzisz jak %name% ba³amuci cz³onka rodziny królewskiej. Donosisz królowi?
+Rycerz: "Drogi Panie! Dosz³y nas s³uchy, ¿e grupa %name% znowu szykuje siê do ataku na %place% w celu zdobycia %item%. Czy powinniœmy zwiêkszyæ ochronê?"
+<KA> Król zaprosi³ ciê na bal z okazji urodzin %name%. Król bêdzie pijany, wiêc mo¿e nie wyczuæ trucizny w jedzeniu. Czy chcesz zatruæ posi³ek?
+<KA> Król zaprosi³ ciê na prywatn¹ rozmowê w jego komnacie. Poniewa¿ bêdziecie sami, nietrudno bêdzie go zabiæ za pomoc¹ %item%. Czy chcesz to zrobiæ?
+Spacerujesz ulicami miasta, gdy nagle z bocznej uliczki wybiega na ciebie brudny %name% z %place% i plami twój %item%. Wœciekasz siê?
+Na przechadzce trafiasz na %name%. Jest bardzo natrêtny i widaæ, ¿e przeszkadza mieszkañcom. Aresztujesz go?
+Król wyje¿d¿a na tydzieñ do s¹siedniego miasta. W %place% bêdzie znacznie mniej osób ni¿ zwykle. Idziesz na rozpoznanie?
+Wracaj¹c do swojej kwatery postanawiasz pójœæ okrê¿n¹ drog¹. W jendnej z uliczek trafiasz na grupkê %name%, którzy ¿¹daj¹ %item%. W oddali dostrzegasz %name2%. Spe³niasz ¿¹danie?
+Jeden z twoich znajomych, %name%, zaprasza ciê do %place%. Nie bêdzie ciê na dworze przez kilka dni. Odpowiadasz na zaproszenie?
+Podczas pobytu w %place% do twoich uszu trafia informacja, ¿e %name% planuje zabiæ króla. Powiadamiasz go?
+Giermek: "Mój Panie! Nasi szpiedzy donieœli, ¿e grupa %name%, z którymi mamy siê jutro zetrzeæ, s¹ znacznie liczniejsi ni¿ myœleliœmy. Ponadto maj¹ %item%! Powinniœmy wystawiæ wiêkszy oddzia³." Robisz tak?
+Przychodzi do ciebie %name% i prosi o audiencjê u króla. Jego celem jest zdobycie wiêcej %item% dla %place%. Zgadzasz siê?
+Znalaz³eœ %item%. Jeœli ktoœ ciê z nim zobaczy, mo¿esz mieæ k³opoty. Bierzesz?
+Goniec: "Mi³oœciwy Panie! %name% z s¹siedniego pañstwa postawi³ naszemu w³adcy ¿¹dania! Mamy mu w ci¹gu tygodnia przekazaæ ca³y nasz zapas %item%, inaczej nas zaatakuje!." Przeka¿esz informacjê królowi?
+<KA> Zauwa¿y³eœ, ¿e król lubi odpoczywaæ na balkonie. Podciêcie bariery powinno wygl¹daæ jak nieszczêœliwy wypadek. Ryzykujesz?
+Budzi ciê ze snu ha³as. Okazuje siê, ¿e ktoœ próbowa³ wejœæ do twojej komnaty przez okno, lecz potkn¹³ siê o le¿¹cy na balkonie %item% i spad³. Wo³asz stra¿e?
+
+W ciemnej uliczce ko³o %place% kupujesz %item%. Zauwa¿y³ ciê jednak %name%. Przekupujesz go?
+Id¹c przez miasto trafiasz na p³on¹cy magazyn. Jesteœ jedyn¹ osob¹ w okolicy. Zza rogu wy³ania siê %name%. Uciekasz?
+Król zleci³ ci pozbycie siê grupy %name% z %place%. Oni jednak oferuj¹ pomoc w spisku. Ok³amiesz w³adcê?
+<S?> Pandapie¿ og³osi³ krucjatê. Jesteœ niejawnym ateist¹. Uczestniczysz w krucjacie?
+Podczas obiadu z mo¿nymi w %place% zaczepia ciê %name%. Prosi o %item%. Sprzedajesz?
+Z pobliskiego %place% wybiega w panice %name%. Goni go 3 stra¿ników. Blokujesz drogê %name%?
+Zakapturzony %name% wo³a ciê do ciemnej alejki. Proponuje ci uczestniczenie w spotkaniu sekty noc¹ w %place%. Musisz jednak przynieœæ swój w³asny %item%. Idziesz?
+Z okna swojej komnaty widzisz t³um na ulicy. Podobno ktoœ chce skoczyæ z okna piêtro wy¿ej. Idziesz go zniechêciæ?
+Od %name% otrzymujesz podejrzan¹ skrzyniê. Myœlisz, ¿e w œrodku jest %item%. Przeka¿esz j¹ jako prezent dla króla?
+Król zachorowa³ i wymaga transportu do %place%. Spodziewany jest jednak atak %name%. Bierzesz udzia³ w transporcie?
+Jesteœ na obiedzie u króla. Jedzenie jednak smakuje podejrzanie. Kontynuujesz jedzenie mimo wszystko?
+
+
